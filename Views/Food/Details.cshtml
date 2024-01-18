@@ -1,0 +1,28 @@
+﻿@model Food
+
+@{
+    ViewData["Name"] = " | Food Details";
+}
+<div class="container mt-5" style="margin-top:100px;">
+	<div class="product-container">
+		<div class="row">
+			<div class="col-md-6">
+				<img src="@Model.ImageUrl" alt="Product Image" class="product-image">
+			</div>
+			<div class="col-md-6">
+				<h1 class="product-title">@Model.Name</h1>
+				<p class="product-price">@Model.Price.ToString("c")</p>
+				<p>@Model?.Category?.Name</p>
+				<p class="product-description">
+					@Model?.Description
+				</p>
+				<form asp-action="Add" asp-controller="Cart" method="post">
+					<button type="submit" name="id" value="@Model?.FoodId"
+							class="btn btn-lg btn-danger">
+						Add To Cart
+					</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>

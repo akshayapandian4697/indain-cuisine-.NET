@@ -1,0 +1,94 @@
+﻿@model CartViewModel
+
+@{
+    ViewData["Title"] = "Indian Cuisine | Cart";
+}
+<form asp-action="Remove" method="post">
+    <h1>My Cart</h1>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                <form asp-action="Remove" method="post">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Food Item</th>
+                            <th>Quantity</th>
+                            <th class="text-center">Price</th>
+                            <th class="text-center">Total</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (CartItem item in Model.List)
+                        {
+                            <tr>
+                                <td>
+                                    <div class="media">
+                                        <a asp-action="Details" asp-controller="Food"
+                                       asp-route-id="@item?.Food?.FoodId"
+                                       asp-route-slug="@item?.Food?.Name.Slug()">
+                                            <img class="media-object" src="@item.Food.ImageUrl"
+                                             style="width: 72px; height: 72px;">
+                                        </a>
+                                        <div class="media-body">
+                                            <h4 class="media-heading">@item?.Food?.Name</h4>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="text-center"><strong>@item?.Quantity</strong></td>
+                                <td class="text-center"><strong>@item?.Food?.Price.ToString("c")</strong></td>
+                                <td class="text-center">
+                                    <strong>
+                                        <a asp-action="Edit" asp-controller="Cart"
+                                       asp-route-id="@item?.Food?.FoodId"
+                                       asp-route-slug="@item?.Food?.Name.Slug()"
+                                       class="btn btn-primary">Edit</a>
+                                    </strong>
+                                </td>
+                                <td>
+                                        <button type="submit" name="id" value="@item?.Food?.FoodId"
+                                            class="btn btn-danger">
+                                            Remove
+                                        </button>
+                                </td>
+                            </tr>
+                        }
+
+                        <tr>
+                            <td colspan="3"></td>
+                            <td><h3>Total</h3></td>
+                            <td class="text-right"><h3><strong>@Model?.Subtotal.ToString("c")</strong></h3></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3"></td>
+                            <td>
+                                <a asp-action="List" asp-controller="Food"
+                                       class="btn btn-default">Continue Shopping</a>
+                            </td>
+                            <td>
+                                    @if (Model?.Subtotal > 0)
+                                    {
+                                        <a asp-action="Checkout" asp-controller="Cart"
+                                           class="btn btn-success">Checkout</a>
+
+                                        <span class="fa fa-play"></span>
+                                    }
+                                    else
+                                    {
+                                        <a disabled
+                                           class="btn btn-secondary">Checkout</a>
+
+                                        <span disabled class="fa fa-play"></span>
+                                    }
+
+                                    
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                </form>
+            </div>
+        </div>
+    </div>
+</form>

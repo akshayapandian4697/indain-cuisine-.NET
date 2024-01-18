@@ -1,0 +1,54 @@
+﻿@using IndainCuisine.Models;
+@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "Manage Categories";
+}
+
+<div class="container mt-5" style="margin-top:140px;">
+    <h1 class="mb-4">Manage Categories</h1>
+
+    <div class="mb-4">
+        <a asp-action="Add" asp-area="Admin" class="btn btn-primary">Add a Category</a>
+    </div>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Category ID</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Image</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Category category in Model)
+            {
+                <tr>
+                    <td>@category.CategoryId</td>
+                    <td>@category.Name</td>
+                    <td>@category.Description</td>
+                    <td>
+                        <img src="@category.ImagePath" alt="@category.ImagePath" width="300" height="200" />
+                    </td>
+                    <td>
+                        <a asp-action="ViewFoods" asp-area="Admin" asp-route-id="@category.CategoryId" class="btn btn-secondary custom-btn">View Food Items</a>
+                        <br />
+                        <br/>
+                        <a asp-action="Edit" asp-area="Admin" asp-route-id="@category.CategoryId" class="btn btn-warning custom-btn">Edit</a>
+                        <br />
+                        <br />
+                        <a asp-action="Delete" asp-area="Admin" asp-route-id="@category.CategoryId" class="btn btn-danger custom-btn">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<style>
+    .custom-btn {
+        width: 100px; 
+        height: 100px;
+    }
+</style>

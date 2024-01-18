@@ -1,0 +1,35 @@
+﻿@model CartItem
+
+@{
+    ViewData["Title"] = " | Edit Cart";
+}
+<div class="container mt-5" style="margin-top:100px;">
+    <form asp-action="Edit" method="post">
+    <div class="product-container">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="@Model?.Food?.ImageUrl" alt="Product Image" class="product-image">
+            </div>
+            <div class="col-md-6">
+                    <h1 class="product-title">@Model?.Food?.Name</h1>
+                <p class="product-price">@Model?.Food?.Price.ToString("c")</p>
+                    <p>Quantity</p><select asp-for="Quantity" class="form-control">
+                        @for (int i = 1; i <= 15; i++)
+                        {
+                            <option>@i</option>
+                        }
+                    </select>
+                <p class="product-description">
+                    @Model?.Food?.Description
+                </p>
+                    <input type="hidden" asp-for="Food.FoodId" />
+                    <input type="hidden" asp-for="Food.Name" />
+
+                    <button type="submit" class="btn btn-primary">Save</button>
+                    <a asp-action="Index" asp-controller="Cart" class="btn btn-primary">Cancel</a>
+            </div>
+        </div>
+    </div>
+  </form>
+
+</div>

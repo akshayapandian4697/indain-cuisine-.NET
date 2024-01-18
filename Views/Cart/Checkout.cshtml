@@ -1,0 +1,88 @@
+﻿@using IndainCuisine.Models.ViewModels;
+@model UserDetailViewModel
+@{
+	ViewData["Title"] = "Checkout";
+}
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 bg-default p-4 rounded">
+            <h4 class="my-4 text-center text-primary">Billing Address</h4>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <form method="post" asp-action="OrderConfirmation" method="post">
+                <div class="form-row mb-3">
+                    <div class="col-md-6">
+                        <label for="FirstName" class="label-icon text-info"><i class="fas fa-user"></i> First Name</label>
+                        <input type="text" class="form-control" asp-for="FirstName" id="FirstName" placeholder="First Name">
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="LastName" class="label-icon text-info"><i class="fas fa-user"></i> Last Name</label>
+                        <input type="text" class="form-control" asp-for="LastName" id="LastName" placeholder="Last Name">
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-row mb-3">
+                    <div class="col-md-6">
+                        <label for="UserName" class="label-icon text-info"><i class="fas fa-user"></i> UserName</label>
+                        <input type="text" class="form-control" asp-for="UserName" id="UserName" placeholder="User Name">
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="Email" class="label-icon text-info"><i class="fas fa-envelope"></i> Email</label>
+                        <input type="text" class="form-control" asp-for="Email" id="Email" placeholder="Email">
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group mb-3">
+                    <label for="Address" class="label-icon text-info"><i class="fas fa-map-marker-alt"></i> Address</label>
+                    <input type="text" class="form-control" asp-for="Address" id="Address" placeholder="Address">
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+                <div class="row mb-3">
+                    <div class="col-md-4">
+                        <label for="Country" class="label-icon text-info"><i class="fas fa-globe"></i> Country</label>
+                        <input type="text" class="form-control" asp-for="Country" id="Country" placeholder="Country">
+                        <span asp-validation-for="Country" class="text-danger"></span>
+                    </div>
+                </div>
+                <hr class="mt-4">
+                <h4 class="mb-4 text-center text-primary">Payment</h4>
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label for="CardName" class="label-icon text-info"><i class="far fa-credit-card"></i> Name on Card</label>
+                        <input type="text" class="form-control" id="CardName" asp-for="CardName" placeholder="Card Name">
+                        <span asp-validation-for="CardName" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="CardNumber" class="label-icon text-info"><i class="far fa-credit-card"></i> Card Number</label>
+                        <input type="text" class="form-control" id="CardNumber" asp-for="CardNumber" placeholder="Card Number">
+                        <span asp-validation-for="CardNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-row mb-3">
+                    <div class="col-md-5">
+                        <label for="ExpireDate" class="label-icon text-info"><i class="far fa-calendar-alt"></i> Expire Date</label>
+                        <input type="text" class="form-control" id="ExpireDate" asp-for="ExpireDate" placeholder="Expire Date">
+                        <span asp-validation-for="ExpireDate" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-5">
+                        <label for="SecurityNumber" class="label-icon text-info"><i class="fas fa-lock"></i> Security Number</label>
+                        <input type="text" class="form-control" id="SecurityNumber" asp-for="SecurityNumber" placeholder="Security Number">
+                        <span asp-validation-for="SecurityNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                <hr class="mb-4">
+                <button class="btn btn-primary btn-lg btn-block" type="submit">Place Order</button>
+                <br/>
+            </form>
+        </div>
+    </div>
+    <br />
+</div>
+
+
+

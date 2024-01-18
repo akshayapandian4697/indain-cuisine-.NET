@@ -1,0 +1,35 @@
+﻿@{
+    Layout = "_Layout";
+    var current = ViewContext.RouteData.Values["controller"]?.ToString();
+}
+
+@section scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin-top:94px!important">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item @Nav.Active("Food", current)">
+                    <a class="nav-link" asp-action="Index" asp-controller="Food">Add Food</a>
+                </li>
+                <li class="nav-item @Nav.Active("Category", current)">
+                    <a class="nav-link" asp-action="Index" asp-controller="Category">Manage Category & Products</a>
+                </li>
+                <li class="nav-item @Nav.Active("User", current)">
+                    <a class="nav-link" asp-action="Index" asp-controller="User">Manage Users</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container mt-5">
+    @RenderBody()
+</div>

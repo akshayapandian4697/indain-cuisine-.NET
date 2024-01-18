@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "favico.js@0.3.10",
+      "destination": "wwwroot/favico.js/"
+    }
+  ]
+}

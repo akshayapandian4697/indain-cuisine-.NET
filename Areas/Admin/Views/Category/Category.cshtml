@@ -1,0 +1,87 @@
+﻿@model Category
+
+@{
+    var action = ViewContext.RouteData.Values["action"].ToString().Capitalize();
+    ViewData["Name"] = $" | {action} Category";
+}
+
+<div class="container mt-5">
+    <h1>@action Category</h1>
+
+    <form asp-action="@action" asp-area="Admin" method="post" enctype="multipart/form-data">
+        <div class="form-group row mb-3">
+            <label class="col-sm-2 col-form-label">CategoryID:</label>
+            <div class="col-sm-4">
+                @if (Operation.IsAdd(action))
+                {
+                    <input type="text" asp-for="CategoryId" class="form-control" />
+                }
+                else
+                {
+                    <label>@Model.CategoryId</label>
+                    <input type="hidden" asp-for="CategoryId" />
+                }
+            </div>
+            @if (Operation.IsAdd(action))
+            {
+                <div class="col-sm-6">
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+            }
+        </div>
+        <div class="form-group row mb-3">
+            <label class="col-sm-2 col-form-label">Name:</label>
+            <div class="col-sm-4">
+                @if (Operation.IsDelete(action))
+                {
+                    <label>@Model.Name</label>
+                    <input type="hidden" asp-for="Name" />
+                }
+                else
+                {
+                    <input type="text" asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                }
+            </div>
+        </div>
+        <div class="form-group row mb-3">
+            <label class="col-sm-2 col-form-label">Description:</label>
+            <div class="col-sm-4">
+                @if (Operation.IsDelete(action))
+                {
+                    <label>@Model.Description</label>
+                    <textarea asp-for="Description" class="form-control"></textarea>
+                }
+                else
+                {
+                    <textarea asp-for="Description" class="form-control"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                }
+            </div>
+        </div>
+                <div class="form-group row mb-3">
+            <label class="col-sm-2 col-form-label">Image:</label>
+            <div class="col-sm-4">
+                @if (Operation.IsDelete(action))
+                {
+                    <label>@Model.ImagePath</label>
+                    <img src="@Model.ImagePath" alt="@Model.Name" asp-for="ImagePath" width="300" height="200" />
+                    <input type="hidden" asp-for="ImagePath" />
+                }
+                else
+                {
+                    <img id="imgProduct" src="@Model.ImagePath" alt="Product Image" width="100" height="100" />
+                    <input type="file" id="ImageFile" asp-for="ImageFile" class="btn btn-secondary" />
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                }
+            </div>
+        </div>
+
+        <div class="form-group row mb-3">
+            <div class="col-sm-4 offset-sm-2">
+                <button type="submit" class="btn btn-primary">Save</button>
+                <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </div>
+    </form>
+</div>

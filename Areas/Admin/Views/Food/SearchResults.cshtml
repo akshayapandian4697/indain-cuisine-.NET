@@ -1,0 +1,65 @@
+﻿@model SearchViewModel
+
+@{
+    ViewData["Title"] = " | Search Results";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col">
+            <h1 class="mb-2">@Model.Header</h1>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Food Name</th>
+                    <th>Category</th>
+                    <th>Price</th>
+                    <th>Description</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var food in Model.Foods)
+                {
+                    if(food.CategoryId == Model.SearchTerm)
+                    {
+                        <tr>
+                            <td>
+                                <a asp-action="Details" asp-controller="Food"
+                                   asp-area="" asp-route-id="@food.FoodId"
+                                   asp-route-slug="@food.Name.Slug()">@food.Name</a>
+                            </td>
+                            <td>@food.Category.Name</td>
+                            <td>@food.Price</td>
+                            <td>@food.Description</td>
+                            <td>
+                                <img src="@food.ImageUrl" alt="@food.Name" asp-for="ImageUrl" width="300" height="200" />
+                            </td>
+                            <td>
+                                <div class="float-right">
+                                    <a asp-action="Edit" asp-route-id="@food.FoodId"
+                                       class="btn btn-primary btn-sm mr-1 custom-btn">Edit</a>
+                                       <br/>
+                                    <br />
+                                    <a asp-action="Delete" asp-route-id="@food.FoodId"
+                                       class="btn btn-danger btn-sm custom-btn">Delete</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                   
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<style>
+    .custom-btn {
+        width: 100px; 
+        height: 60px; 
+    }
+</style>

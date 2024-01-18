@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IndainCuisine.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IndainCuisine.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Category\\appetizers.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Category\\appetizers.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Category\\beverages.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Category\\beverages.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Category\\breads.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Category\\breads.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Category\\desserts.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Category\\desserts.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Category\\maincourses.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Category\\maincourses.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Category\\rice.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Category\\rice.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Category\\sidedishes.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Category\\sidedishes.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Aloo Tikki.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Aloo Tikki.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Barfi.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Barfi.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Bhaji.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Bhaji.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Bhatura.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Bhatura.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Biryani.jpeg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Biryani.jpeg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Butter Chicken.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Butter Chicken.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Chaat.jpeg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Chaat.jpeg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Chana Masala.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Chana Masala.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Chapati.jpeg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Chapati.jpeg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Chutney.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Chutney.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Coconut Rice.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Coconut Rice.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Curry.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Curry.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Dal Makhani.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Dal Makhani.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Dhokla.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Dhokla.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Gajar Halwa.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Gajar Halwa.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Gulab Jamun.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Gulab Jamun.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Jalebi.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Jalebi.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Jeera Rice.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Jeera Rice.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Kheer.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Kheer.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Korma.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Korma.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Lassi.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Lassi.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Lemon Rice.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Lemon Rice.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Malai Kulfi.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Malai Kulfi.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Masala Chai.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Masala Chai.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Naan.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Naan.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Nimbu Pani.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Nimbu Pani.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Pakora.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Pakora.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Paneer Tikka.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Paneer Tikka.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Papadum.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Papadum.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Paratha.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Paratha.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Pickles.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Pickles.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Plain Rice.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Plain Rice.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Pulao.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Pulao.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Puri.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Puri.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Raita.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Raita.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Rasgulla.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Rasgulla.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Rasmalai.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Rasmalai.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Rogan Josh.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Rogan Josh.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Roti.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Roti.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Saag.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Saag.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Samosa.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Samosa.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Seekh Kebab.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Seekh Kebab.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Thandai.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Thandai.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Tikka Masala.jpeg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Tikka Masala.jpeg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Vegetable Cutlet.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Vegetable Cutlet.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\Vindaloo.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\Vindaloo.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\ball5.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\ball5.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\beverages.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\beverages.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\chai.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\chai.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\Assets\\Product\\shirt1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Product\\shirt1.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\favico.js\\favico.js",
+      "PackagePath": "staticwebassets\\favico.js\\favico.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\favico.js\\favico.min.js",
+      "PackagePath": "staticwebassets\\favico.js\\favico.min.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\images\\accessDenied.avif",
+      "PackagePath": "staticwebassets\\images\\accessDenied.avif"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Semester4\\Advanced .Net Programming\\Group1_FinalProject\\Group1_FinalProject\\Group1_FinalProject\\IndainCuisine\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IndainCuisine.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.IndainCuisine.props",
+      "PackagePath": "build\\IndainCuisine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.IndainCuisine.props",
+      "PackagePath": "buildMultiTargeting\\IndainCuisine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.IndainCuisine.props",
+      "PackagePath": "buildTransitive\\IndainCuisine.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

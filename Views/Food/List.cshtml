@@ -1,0 +1,85 @@
+﻿@model FoodListViewModel
+
+@{
+    ViewData["Name"] = " | Food Services";
+
+    RouteDictionary current = Model.CurrentRoute;
+    RouteDictionary routes = Model.CurrentRoute.Clone();
+}
+<div class="container">
+    <hr />
+</div>
+<br/>
+<br/>
+<br />
+<div class="container">
+    <div class="row">
+
+        @foreach (Food food in Model.Foods)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card h-100">
+                    <div class="d-flex justify-content-between position-absolute w-100">
+                        <div class="label-new">
+                            <span class="text-white bg-success small d-flex align-items-center px-2 py-1">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <span class="ml-1">New</span>
+                            </span>
+                        </div>
+                    </div>
+                    <a href="#">
+                        <img src="@food.ImageUrl" class="card-img-top" alt="Product" width="200px" height="300px">
+                    </a>
+                    <div class="card-body px-2 pb-2 pt-1">
+                        <div class="d-flex justify-content-between">
+                            <div>
+                                <p class="h4 text-primary"> @food.Price.ToString("c")</p>
+                            </div>
+                            <div>
+                                <a href="#" class="text-secondary lead" data-toggle="tooltip" data-placement="left" title="Compare">
+                                    <i class="fa fa-line-chart" aria-hidden="true"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <p class="mb-0">
+                            <strong>
+                                <a asp-action="Details" asp-route-id="@food.FoodId"
+                                   asp-route-slug="@food?.Name?.Slug()" class="text-secondary">
+                                    @food?.Name
+                                </a>
+                            </strong>
+                        </p>
+                        <div class="d-flex mb-3 justify-content-between">
+                            <div>
+                                <p class="mb-0 small"><b>@food?.Category?.Name</b></p>
+                            </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <div class="col px-0">
+                                <form asp-action="Add" asp-controller="Cart" method="post">
+                                    <input type="hidden" name="id" value="@food?.FoodId" />
+                                    <button type="submit" class="btn btn-outline-primary btn-block">Add To Cart</button>
+                                </form>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="container">
+    <hr />
+    @{
+        routes = Model.CurrentRoute.Clone();
+        for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            routes.PageNumber = i;
+            <a asp-action="List" asp-all-route-data="@routes"
+               class="btn btn-outline-primary @Nav.Active(i, current.PageNumber)">@i</a>
+        }
+    }
+</div>
+

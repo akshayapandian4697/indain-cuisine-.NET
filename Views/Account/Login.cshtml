@@ -1,0 +1,29 @@
+﻿@model LoginViewModel
+@{
+    ViewBag.Title = "Login";
+}
+<div class="container mt-5">
+    <div class="login-container">
+        <img src="~/images/banner.jpg" width="100%" height="50%" alt="Banner of Indian Cusine" class="background-image">
+        <div class="login-box">
+            <h2 class="text-center mb-4">Login</h2>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <form method="post" asp-action="LogIn" asp-route-returnUrl="@Model.ReturnUrl" class="login-form">
+                <div class="mb-3">
+                    <input type="text" class="form-control" placeholder="Username" asp-for="Username">
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <input type="password" asp-for="Password" class="form-control" placeholder="Password">
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                <button type="submit" class="btn btn-warning btn-block">Login</button>
+                </div>
+                <div class="form-group text-center">
+                        Not registered? <a asp-action="Register">Register as a new user</a>
+                    </div>
+            </form>
+        </div>
+    </div>
+</div>

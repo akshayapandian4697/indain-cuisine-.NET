@@ -1,0 +1,540 @@
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/appsettings.Development.json
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/appsettings.json
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/libman.json
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/IndainCuisine.staticwebassets.runtime.json
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/IndainCuisine.exe
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/IndainCuisine.deps.json
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/IndainCuisine.runtimeconfig.json
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/IndainCuisine.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/IndainCuisine.pdb
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Azure.Core.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Azure.Identity.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Humanizer.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.CodeDom.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.Text.Json.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.csproj.AssemblyReference.cache
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.GeneratedMSBuildEditorConfig.editorconfig
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.AssemblyInfoInputs.cache
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.AssemblyInfo.cs
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.csproj.CoreCompileInputs.cache
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.MvcApplicationPartsAssemblyInfo.cache
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.RazorAssemblyInfo.cache
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.RazorAssemblyInfo.cs
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/staticwebassets/msbuild.IndainCuisine.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/staticwebassets/msbuild.build.IndainCuisine.props
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.IndainCuisine.props
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.IndainCuisine.props
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/staticwebassets.build.json
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/staticwebassets.development.json
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/scopedcss/bundle/IndainCuisine.styles.css
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/scopedcss/projectbundle/IndainCuisine.bundle.scp.css
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.csproj.CopyComplete
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/refint/IndainCuisine.dll
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.pdb
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/IndainCuisine.genruntimeconfig.cache
+C:/Semester4/Advanced .Net Programming/Group1/IndainCuisine/obj/Debug/net6.0/ref/IndainCuisine.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/appsettings.Development.json
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/appsettings.json
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/libman.json
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/IndainCuisine.staticwebassets.runtime.json
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/IndainCuisine
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/IndainCuisine.deps.json
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/IndainCuisine.runtimeconfig.json
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/IndainCuisine.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/IndainCuisine.pdb
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Azure.Core.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Azure.Identity.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Humanizer.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.CodeDom.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.Text.Json.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.csproj.AssemblyReference.cache
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.AssemblyInfoInputs.cache
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.AssemblyInfo.cs
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.csproj.CoreCompileInputs.cache
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.MvcApplicationPartsAssemblyInfo.cache
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.RazorAssemblyInfo.cache
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.RazorAssemblyInfo.cs
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/staticwebassets/msbuild.IndainCuisine.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/staticwebassets/msbuild.build.IndainCuisine.props
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.IndainCuisine.props
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.IndainCuisine.props
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/staticwebassets.build.json
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/staticwebassets.development.json
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/scopedcss/bundle/IndainCuisine.styles.css
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/scopedcss/projectbundle/IndainCuisine.bundle.scp.css
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.csproj.CopyComplete
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/refint/IndainCuisine.dll
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.pdb
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/IndainCuisine.genruntimeconfig.cache
+/Users/ramchanderrao/Downloads/IndainCuisine/obj/Debug/net6.0/ref/IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\appsettings.Development.json
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\appsettings.json
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\libman.json
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.staticwebassets.runtime.json
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.exe
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.deps.json
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.runtimeconfig.json
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.pdb
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Azure.Core.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Azure.Identity.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Humanizer.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.CodeDom.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Text.Json.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.AssemblyReference.cache
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.AssemblyInfoInputs.cache
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.AssemblyInfo.cs
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.CoreCompileInputs.cache
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.MvcApplicationPartsAssemblyInfo.cache
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.RazorAssemblyInfo.cache
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.RazorAssemblyInfo.cs
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.IndainCuisine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.build.IndainCuisine.props
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IndainCuisine.props
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IndainCuisine.props
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\scopedcss\bundle\IndainCuisine.styles.css
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\scopedcss\projectbundle\IndainCuisine.bundle.scp.css
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.CopyComplete
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\refint\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.pdb
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.genruntimeconfig.cache
+C:\Semester4\Advanced .Net Programming\Group1Latest\IndainCuisine\IndainCuisine\obj\Debug\net6.0\ref\IndainCuisine.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\appsettings.Development.json
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\appsettings.json
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\libman.json
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.staticwebassets.runtime.json
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.exe
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.deps.json
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.runtimeconfig.json
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.pdb
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Azure.Core.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Azure.Identity.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Humanizer.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.CodeDom.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Text.Json.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.AssemblyReference.cache
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.AssemblyInfoInputs.cache
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.AssemblyInfo.cs
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.CoreCompileInputs.cache
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.MvcApplicationPartsAssemblyInfo.cache
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.RazorAssemblyInfo.cache
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.RazorAssemblyInfo.cs
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.IndainCuisine.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.build.IndainCuisine.props
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IndainCuisine.props
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IndainCuisine.props
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\scopedcss\bundle\IndainCuisine.styles.css
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\scopedcss\projectbundle\IndainCuisine.bundle.scp.css
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.CopyComplete
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\refint\IndainCuisine.dll
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.pdb
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.genruntimeconfig.cache
+D:\Ebin\Web Development\Semester 4\PROG8770-23S-Sec1-Advanced Programming with .NET\IndainCuisine\IndainCuisine\obj\Debug\net6.0\ref\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.AssemblyReference.cache
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.AssemblyInfoInputs.cache
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.AssemblyInfo.cs
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.CoreCompileInputs.cache
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.MvcApplicationPartsAssemblyInfo.cache
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.RazorAssemblyInfo.cache
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.RazorAssemblyInfo.cs
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\refint\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.pdb
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\appsettings.Development.json
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\appsettings.json
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\libman.json
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.staticwebassets.runtime.json
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.exe
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.deps.json
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.runtimeconfig.json
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\IndainCuisine.pdb
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Azure.Core.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Azure.Identity.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Humanizer.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.CodeDom.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Text.Json.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.IndainCuisine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.build.IndainCuisine.props
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IndainCuisine.props
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IndainCuisine.props
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\scopedcss\bundle\IndainCuisine.styles.css
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\scopedcss\projectbundle\IndainCuisine.bundle.scp.css
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.CopyComplete
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\IndainCuisine.genruntimeconfig.cache
+C:\Semester4\Advanced .Net Programming\GroupFinal\IndainCuisine\IndainCuisine\IndainCuisine\obj\Debug\net6.0\ref\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\appsettings.Development.json
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\appsettings.json
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\libman.json
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\IndainCuisine.staticwebassets.runtime.json
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\IndainCuisine.exe
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\IndainCuisine.deps.json
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\IndainCuisine.runtimeconfig.json
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\IndainCuisine.pdb
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Azure.Core.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Azure.Identity.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Humanizer.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.CodeDom.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.Text.Json.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.AssemblyReference.cache
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.AssemblyInfoInputs.cache
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.AssemblyInfo.cs
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.CoreCompileInputs.cache
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.MvcApplicationPartsAssemblyInfo.cache
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.RazorAssemblyInfo.cache
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.RazorAssemblyInfo.cs
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.IndainCuisine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.build.IndainCuisine.props
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IndainCuisine.props
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IndainCuisine.props
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\scopedcss\bundle\IndainCuisine.styles.css
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\scopedcss\projectbundle\IndainCuisine.bundle.scp.css
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.csproj.CopyComplete
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\refint\IndainCuisine.dll
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.pdb
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\IndainCuisine.genruntimeconfig.cache
+C:\Semester4\Advanced .Net Programming\Group1_FinalProject\Group1_FinalProject\Group1_FinalProject\IndainCuisine\obj\Debug\net6.0\ref\IndainCuisine.dll

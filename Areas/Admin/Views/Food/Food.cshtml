@@ -1,0 +1,65 @@
+﻿@model FoodViewModel
+
+@{
+    var action = ViewContext.RouteData.Values["action"].ToString().Capitalize();
+    ViewData["Title"] = $"{action} Food";
+}
+
+<div class="admin-food-background-image">
+    <div class="container mt-5">
+        <h1 class="mb-4">@action Food</h1>
+        <form asp-action="@action" asp-area="Admin" method="post" class="mb-4" enctype="multipart/form-data">
+            <input type="hidden" asp-for="food.FoodId" />
+
+            <div class="mb-3">
+                <label class="form-label">Name:</label>
+                <div class="input-group">
+                    @if (Operation.IsDelete(action))
+                    {
+                        <label class="form-control">@Model.food.Name</label>
+                        <input type="hidden" asp-for="food.Name" />
+                    }
+                    else
+                    {
+                        <input type="text" asp-for="food.Name" class="form-control" />
+                        <span asp-validation-for="food.Name" class="text-danger"></span>
+                    }
+                </div>
+            </div>
+
+            @if (!Operation.IsDelete(action))
+            {
+                <div class="mb-3">
+                    <label class="form-label">Price:</label>
+                    <input type="text" asp-for="food.Price" class="form-control" />
+                    <span asp-validation-for="food.Price" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Category:</label>
+                    <select asp-for="food.CategoryId" class="form-control" asp-items='@new SelectList(Model.Categories, "CategoryId", "Name",Model.food.CategoryId)'>
+                        <option value="">Select a category</option>
+                    </select>
+                    <span asp-validation-for="food.CategoryId" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Description:</label>
+                    <textarea asp-for="food.Description" class="form-control"></textarea>
+                    <span asp-validation-for="food.Description" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Image:</label>
+                    <img id="imgProduct" src="@Model.food.ImageUrl" alt="Product Image" width="100" height="100" />
+                    <input type="file" asp-for="food.ImageFile" class="btn btn-secondary" />
+                    <span asp-validation-for="food.ImageFile" class="text-danger"></span>
+                </div>
+
+            }
+            <div class="row">
+                <div class="col-sm-4 offset-sm-2">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                    <a asp-action="@(Operation.IsAdd(action) ? "Index" : "Search")" class="btn btn-secondary ml-2">Cancel</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
